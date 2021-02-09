@@ -1,0 +1,4 @@
+assets/contents/download.pdf filter=lfs diff=lfs merge=lfs -text
+assets/contents/1.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/contents/2.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/contents/3.mp4 filter=lfs diff=lfs merge=lfs -text
